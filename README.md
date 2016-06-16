@@ -64,7 +64,7 @@ Failing to follow the community guidelines as described in this document carries
 
 ## Member Nomination  
 
-To nominate someone to join the Android Study Group, fill out [this](http://bit.ly/asgform) form with your name, their name and info, and why you are nominating them.  
+To nominate someone to join the Android Study Group, fill out [this](http://asgweb.herokuapp.com/nominate/) form with your name, their name and info, and why you are nominating them.  
 
 This study group is for people actively involved in creating Android applications professionally. This includes people like software engineers and designers, and excludes people like journalists or recruiters. The admins will take into consideration the amount of time the nominee has spent working on Android (at least 1 year is ideal). Other helpful data points include the company where they work (if applicable), apps they have built, and their contributions to the Android community (via open source software, meetups, blog posts, etc). Membership is determined by a vote from the admins, who will then send out an invitation to the nominee.
 
