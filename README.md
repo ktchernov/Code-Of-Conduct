@@ -50,15 +50,20 @@ Failing to follow the community guidelines as described in this document carries
 
 * Aleksei Zakharov - @alexey
 * Ben Lee - @bl
+* Chiu-Ki Chan - @chiuki
 * Corey Latislaw - @colabug
 * Danny Roa - @dannyroa
 * Eric Butler - @codebutler
+* Erik Hellman - @hellman
 * Grantland Chew - @grantland
 * Haley Smith - @haley
+* Jake Ouellette - @jakeout
 * Jake Wharton - @jw
 * Maria Neumayer - @maria
+* Mike Evans - @michael.evans
 * Ty Smith - @ty
 * Vince Mi - @vince
+* Zac Sweers - @z
 
 *The role of the admins is to be an unbiased mediator, they will not moderate or edit anything written in the Slack unless it is required as a result of a discussed dispute.*
 
