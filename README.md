@@ -60,6 +60,7 @@ Failing to follow the community guidelines as described in this document carries
 * Jake Ouellette - @jakeout
 * Jake Wharton - @jw
 * Maria Neumayer - @maria
+* Mike Evans - @michael.evans
 * Ty Smith - @ty
 * Vince Mi - @vince
 * Zac Sweers - @z
