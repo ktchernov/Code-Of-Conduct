@@ -48,7 +48,6 @@ Failing to follow the community guidelines as described in this document carries
 
 **If you experience abuse, harassment, discrimination, or feel unsafe, let a moderator know. Here is a list of the current admins and their Slack IDs:**
 
-* Aleksei Zakharov - @alexey
 * Ben Lee - @bl
 * Chiu-Ki Chan - @chiuki
 * Corey Latislaw - @colabug
@@ -58,7 +57,6 @@ Failing to follow the community guidelines as described in this document carries
 * Grantland Chew - @grantland
 * Haley Smith - @haley
 * Jake Ouellette - @jakeout
-* Jake Wharton - @jw
 * Maria Neumayer - @maria
 * Mike Evans - @michael.evans
 * Raveesh Bhalla - @raveesh
