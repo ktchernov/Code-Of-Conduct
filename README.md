@@ -84,6 +84,8 @@ This study group is for people actively involved in creating Android application
 
 If there is any person you would like to keep out of the study group for any reason, message one of the admins.  
 
+If people raise issues to a member’s treatment of them outside of ASG, including prior to their inclusion to ASG, they may be removed.
+
 ## Slack Etiquette
 
 ### Slack Commands
