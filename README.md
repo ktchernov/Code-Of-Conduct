@@ -84,6 +84,8 @@ This study group is for people actively involved in creating Android application
 
 If there is any person you would like to keep out of the study group for any reason, message one of the admins.  
 
+Because this Slack group is representative of the community, admins reserve the right to deny admission or revoke membership based on CoC violating behavior outside of the Slack chat environment (e.g. in person, GitHub, social media), if necessary.
+
 ## Slack Etiquette
 
 ### Slack Commands
